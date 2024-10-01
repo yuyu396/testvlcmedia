@@ -383,6 +383,7 @@ int main()
     double c;
     double ui;
     char nihao ;
+    char ywz;
     /*B2 bu(3);
     C yu(1, bu, 3, 4);*/
     //arr iou;
