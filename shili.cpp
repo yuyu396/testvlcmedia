@@ -381,6 +381,7 @@ int main()
     int a;
     float b;
     double c;
+    double ui;
     /*B2 bu(3);
     C yu(1, bu, 3, 4);*/
     //arr iou;
